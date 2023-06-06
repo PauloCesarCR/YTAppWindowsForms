@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h/Ys8EPC8ggHCPnEnROefVrlt4jiYBhVtJCRlW1awR/n+6G+w8K0gk+FEsuRk21FqDols9uKK3EY9yU8vwNFFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulo\\Desktop\\Paulo\\AprendendoWindowsForms\\AprendendoWindowsForms\\YTAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
+  ],
+  "logs": []
+}
